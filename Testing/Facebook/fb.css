@@ -1,0 +1,36 @@
+.header{
+    background:#3366ff;
+    width: 100%;
+    height: 110px;
+    
+    
+}
+.name{
+    color: #fff;
+   font-size: 30px;
+   margin-left: 323px;
+   padding-top: 40px;
+   float: left;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+.f2{
+    color: #fff;
+    float:left ;
+    padding-left: 30px;
+}
+.usr{
+    margin-left: -259px;
+    margin-top: 43px;
+    float: left;
+}
+.psd{
+    margin-left: -62px;
+    margin-top: 43px;
+    float: left;
+}
+.f5{
+    text-align: initial;
+}.login-controls{
+    padding-top: 25px;
+    padding-left: 490px;
+}

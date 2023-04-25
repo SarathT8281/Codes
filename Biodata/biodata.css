@@ -1,0 +1,29 @@
+.fcolor{
+    color: rgb(33, 167, 245);
+    text-align:justify;
+    background-color: #fff;
+    font-weight: 30%;
+}
+#sep{
+    color: rgb(228, 6, 14);
+}
+.all{
+    border-style: outset ; 70%;
+     ;
+    
+    
+}
+.img{
+    float: right;
+    padding-right: 200px;
+}
+#family{
+    color: rgb(233, 9, 9);
+}
+.sec{
+    color: rgb(33, 167, 245);
+}
+body{
+    border-style: solid 100px rgb(72, 9, 208);
+    ;
+}
